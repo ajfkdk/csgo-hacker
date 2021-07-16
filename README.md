@@ -19,5 +19,15 @@ Compared to other people's code, my code is much simpler for beginners使用更�
 
 - ### 自瞄、敌人可视化判断
 
+- ## Glow ESP( *visualization*  check）
 
+- ## BunnyHop
+
+- ## TriggerBot
+
+- ## NoRecoil
+
+- ## AimBot And Setting（ *visualization*  check& RCS）
+
+- ## smooth aimbot
 
