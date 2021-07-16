@@ -1,5 +1,6 @@
 # csgo_external-_hack
-Compared to other people's code, my code is much simpler for beginners使用更加简单的外部作弊，对于刚开始的人来说，选择这个代码来学习csgo作弊逻辑是明智的，因为写这个代码的时候我也是C++新手，所以没有什么特别深奥的语法糖，且我再代码里面做了非常非常多的注释。
+
+使用更加简单的外部作弊，对于刚开始的人来说，选择这个代码来学习csgo作弊逻辑是明智的，因为写这个代码的时候我也是C++新手，所以没有什么特别深奥的语法糖，且我再代码里面做了非常非常多的注释。
 
 功能介绍：
 
@@ -18,6 +19,9 @@ Compared to other people's code, my code is much simpler for beginners使用更�
 - ### 拟人瞄准&瞄准范围
 
 - ### 自瞄、敌人可视化判断
+
+
+Using simpler external cheating, this code is a wise choice for a beginner to learn CSGO cheating logic, because I was also new to C++ when I wrote this code, so there is no particularly esoteric syntax sugar, and I have made very, very many comments in the code.
 
 - ## Glow ESP( *visualization*  check）
 
