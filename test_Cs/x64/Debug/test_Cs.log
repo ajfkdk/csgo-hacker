@@ -1,0 +1,53 @@
+﻿  main.cpp
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(26,44): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 1 从“char [4000]”转换为“LPWSTR”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(26,11): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(333,1): message : 参见“wsprintfW”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(32,44): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“char [4000]”转换为“LPCWSTR”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(32,22): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : 参见“MessageBoxW”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(42,38): error C2664: “int wsprintfW(LPWSTR,LPCWSTR,...)”: 无法将参数 1 从“char [5000]”转换为“LPWSTR”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(42,11): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(333,1): message : 参见“wsprintfW”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(48,44): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“char [5000]”转换为“LPCWSTR”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(48,22): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : 参见“MessageBoxW”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(74,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPCVOID”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(74,69): error C2664: “BOOL ReadProcessMemory(HANDLE,LPCVOID,LPVOID,SIZE_T,SIZE_T *)”: 无法将参数 5 从“dword *”转换为“SIZE_T *”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(74,59): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h(159,1): message : 参见“ReadProcessMemory”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(81,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(81,70): error C2664: “BOOL WriteProcessMemory(HANDLE,LPVOID,LPCVOID,SIZE_T,SIZE_T *)”: 无法将参数 5 从“dword *”转换为“SIZE_T *”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(81,59): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h(172,1): message : 参见“WriteProcessMemory”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(103,62): warning C4311: “类型强制转换”: 从“handle”到“unsigned int”的指针截断
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(103,62): warning C4302: “类型强制转换”: 从“handle”到“unsigned int”截断
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(127,6): error C2664: “char *_strupr(char *)”: 无法将参数 1 从“WCHAR [260]”转换为“char *”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(127,35): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(456,1): message : 参见“_strupr”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(130,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(130,11): message : 请考虑在格式字符串中使用“%ls”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(130,11): message : 请考虑在格式字符串中使用“%lls”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(130,11): message : 请考虑在格式字符串中使用“%Ls”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(130,11): message : 请考虑在格式字符串中使用“%ws”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(163,6): error C2664: “char *_strupr(char *)”: 无法将参数 1 从“WCHAR [256]”转换为“char *”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(163,34): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(456,1): message : 参见“_strupr”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(165,54): warning C4311: “类型强制转换”: 从“BYTE *”到“int”的指针截断
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(165,54): warning C4302: “类型强制转换”: 从“BYTE *”到“int”截断
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(169,79): error C2664: “size_t strlen(const char *)”: 无法将参数 1 从“WCHAR [256]”转换为“const char *”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(169,70): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(219,16): message : 参见“strlen”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(169,80): error C2660: “strncpy”: 函数不接受 2 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338,1): message : 参见“strncpy”的声明
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(175,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(175,11): message : 请考虑在格式字符串中使用“%ls”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(175,11): message : 请考虑在格式字符串中使用“%lls”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(175,11): message : 请考虑在格式字符串中使用“%Ls”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(175,11): message : 请考虑在格式字符串中使用“%ws”
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(176,72): warning C4311: “类型强制转换”: 从“BYTE *”到“unsigned int”的指针截断
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(176,72): warning C4302: “类型强制转换”: 从“BYTE *”到“unsigned int”截断
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(195,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(195,36): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(215,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\help_func.hpp(215,36): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\direct3d9.hpp(8,10): fatal error C1083: 无法打开包括文件: “d3dx9.h”: No such file or directory
