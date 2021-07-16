@@ -1,0 +1,4 @@
+C:\Users\86151\source\repos\csgo\Debug\test_Cs.pdb
+C:\Users\86151\source\repos\test_Cs\Debug\test_Cs.exe
+C:\Users\86151\source\repos\test_Cs\Debug\test_Cs.pdb
+C:\Users\86151\source\repos\csgo_huiguan_and_jump\Debug\test_Cs.pdb

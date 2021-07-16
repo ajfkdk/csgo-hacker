@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\86151\source\repos\test_Cs\util.hpp(99,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\util.hpp(99,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\util.hpp(99,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\util.hpp(106,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\util.hpp(106,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\util.hpp(106,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\util.hpp(106,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(358,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(358,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(358,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(358,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(359,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(375,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(533,8): warning C4101: “angle_base_address”: 未引用的局部变量
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(530,7): warning C4101: “shot_state”: 未引用的局部变量
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(629,8): warning C4101: “angle_base_address”: 未引用的局部变量
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(626,7): warning C4101: “shot_state”: 未引用的局部变量
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(690,9): warning C4101: “angle_base_address”: 未引用的局部变量
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(811,20): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\86151\source\repos\test_Cs\csgo_cheats.hpp(816,20): warning C4305: “-=”: 从“double”到“float”截断
+  test_Cs.vcxproj -> C:\Users\86151\source\repos\test_Cs\Debug\test_Cs.exe
